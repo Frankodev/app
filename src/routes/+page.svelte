@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>
+    <title>casasydepas.net</title>
+    <meta name="desdescription" content="casasydepas.net es una platforma para buscar propiedades en venta y renta" />
+</svelte:head>
+
+<h1>inicio</h1>
