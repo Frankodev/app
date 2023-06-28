@@ -1,5 +1,5 @@
 <script>
-    import './styles.css';
+    import './global.css';
     import Nav from '../lib/Nav.svelte'
 </script>
 
@@ -7,6 +7,6 @@
     <Nav />
 </header>
 
-<main class="g-container">
+<main class="g-container__main">
     <slot />
 </main>

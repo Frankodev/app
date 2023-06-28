@@ -8,15 +8,17 @@
             <a href="/">inicio</a>
         </li>
         <li>
-            <a href="/ventas-rentas">ventas y rentas</a>
+            <a href="/ventas-rentas" target="_blank">ventas y rentas</a>
         </li>
     </ul>
 </nav>
 
 <style>
     .logo {
-        font-size: 1.8rem;
-        color: green;
+        font-family: 'Nunito';
+        color: #03989e;
+        font-size: 2.8rem;
+        font-weight: bold;
     }
 
     nav {
